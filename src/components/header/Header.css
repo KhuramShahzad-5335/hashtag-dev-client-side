@@ -1,0 +1,10 @@
+.header__wrapper .bg-body-tertiary {
+    background-color: #333 !important;
+    color: #eee !important;
+  }
+
+  .header__wrapper .bg-body-tertiary .navbar-brand,
+.header__wrapper .bg-body-tertiary .navbar-text {
+  color: #eee !important;
+}
+

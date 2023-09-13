@@ -1,0 +1,27 @@
+.blogform__container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #444;
+    color: beige;
+    width: 100vw;
+}
+
+.items{
+    margin: 20px 0;
+}
+
+.items{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+label{
+    margin-bottom: 10px;
+}
+
+input{
+    width: 100%;
+}

@@ -1,0 +1,23 @@
+.d__body__container{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: #111;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-blend-mode: color-burn;
+    margin-top: 0px;
+    filter: blur(0.1px);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 70px 40px;
+}
+
+.cards__container{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}

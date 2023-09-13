@@ -1,0 +1,45 @@
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  overflow-x: hidden;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+/* Apply custom styles to the Jodit container */
+.jodit-container {
+  border: 3px solid #e7e7e7;
+  border-radius: 5px;
+  padding: 10px;
+  background-color: #fff;
+  box-shadow: 0 0 0 3px rgb(255, 255, 255);
+}
+
+/* Style the toolbar */
+.jodit-toolbar {
+  background-color: #333;
+  color: #fdfdfd;
+}
+
+/* Style toolbar buttons */
+.jodit-toolbar-button {
+  color: #716767;
+  background-color: #e5e5e5;
+}
+
+/* Style the content area */
+.jodit-wysiwyg {
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+  color: #373636;
+  padding: 10px;
+}
+

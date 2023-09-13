@@ -1,0 +1,21 @@
+.Wrapper{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    width: auto;
+}
+.header__container{
+    flex: 0.2;
+}
+
+.blogeditor__container{
+    flex: 0.8;
+    margin: 0 20px;
+    background-color: lightgray;
+}
+
+.footer__container{
+    flex : 0.2;
+}
